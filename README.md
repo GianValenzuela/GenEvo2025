@@ -163,4 +163,4 @@ Este README resume la fase **exploratoria genómica** del proyecto de tesis de m
 - A corto plazo, el objetivo es **probar y pulir el pipeline** con datos públicos.  
 - A mediano plazo, el mismo pipeline se aplicará a los **datos genómicos propios** (SNPs de baja cobertura, RADseq u otro enfoque que se defina en la tesis), permitiendo una caracterización profunda de la **estructura genómica** del complejo de radiación Titicaca y la identificación robusta de **huellas de selección**.
 
-🐟🧬✨ Este proyecto se sitúa en la intersección entre **genómica evolutiva**, **ecología** y **conservación**, y servirá como base metodológica directa para el desarrollo de tu tesis de maestría.
+🐟🧬✨ Este proyecto se sitúa en la intersección entre **genómica evolutiva**, **ecología** y **conservación**, y servirá como base metodológica directa para varias actividades
