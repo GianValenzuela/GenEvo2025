@@ -6,7 +6,7 @@ La hipótesis principal es que las especies de *Orestias* del Altiplano presenta
 
 En particular, se anticipa encontrar:
 
-- Selección positiva en genes relacionados con **estabilidad genómica** y **reparación del ADN**, como se observó en *Orestias ascotanensis* (con cientos de genes bajo selección positiva implicados en reparación de ADN).  
+- Selección positiva en genes relacionados con **estabilidad genómica**
 - Diferencias de hábitat (p. ej. aguas salobres vs. dulce, distintas altitudes) que generan patrones de **estructura poblacional** detectables entre especies, evidentes en análisis de componentes principales (PCA) y en gráficos de agrupamiento genético (STRUCTURE/ADMIXTURE).  
 
 👉 En una primera fase **exploratoria**, estas ideas se probarán usando **datos públicos** (GenBank/SRA), mientras se obtienen y secuencian los datos propios de la tesis.
